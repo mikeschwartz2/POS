@@ -1,0 +1,11 @@
+C:\Users\mschwartz2\source\repos\POSTest\POS\bin\Debug\netcoreapp3.1\POS.exe
+C:\Users\mschwartz2\source\repos\POSTest\POS\bin\Debug\netcoreapp3.1\POS.deps.json
+C:\Users\mschwartz2\source\repos\POSTest\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.json
+C:\Users\mschwartz2\source\repos\POSTest\POS\bin\Debug\netcoreapp3.1\POS.runtimeconfig.dev.json
+C:\Users\mschwartz2\source\repos\POSTest\POS\bin\Debug\netcoreapp3.1\POS.dll
+C:\Users\mschwartz2\source\repos\POSTest\POS\bin\Debug\netcoreapp3.1\POS.pdb
+C:\Users\mschwartz2\source\repos\POSTest\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfoInputs.cache
+C:\Users\mschwartz2\source\repos\POSTest\POS\obj\Debug\netcoreapp3.1\POS.AssemblyInfo.cs
+C:\Users\mschwartz2\source\repos\POSTest\POS\obj\Debug\netcoreapp3.1\POS.dll
+C:\Users\mschwartz2\source\repos\POSTest\POS\obj\Debug\netcoreapp3.1\POS.pdb
+C:\Users\mschwartz2\source\repos\POSTest\POS\obj\Debug\netcoreapp3.1\POS.csprojAssemblyReference.cache
