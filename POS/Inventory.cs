@@ -7,9 +7,10 @@ namespace POS
     {
         List<Product> products = new List<Product>();
         List<Cart> cartItems = new List<Cart>();
-        public void addItem(Product p)
+        public Product addItem(Product p)
         {
             products.Add(p);
+            return p;
         }
         public void addCartItem(Cart c)
         {

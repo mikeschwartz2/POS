@@ -29,6 +29,8 @@ namespace POS
 
             }
             while (inventory.ContinueProgram());
+
+            Console.WriteLine("Thank you. Lets taco bout it later!!!");
         }
     }
 }
